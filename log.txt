@@ -1,0 +1,142 @@
+Artist: Eminem
+Song: The Real Slim Shady
+Album the song is from: The Marshall Mathers LP
+Preview Url: null
+------------------------------ 0 ------------------------------
+Artist: Eminem
+Song: The Real Slim Shady
+Album the song is from: Curtain Call
+Preview Url: null
+------------------------------ 1 ------------------------------
+Artist: Eminem
+Song: The Real Slim Shady
+Album the song is from: Curtain Call: The Hits
+Preview Url: null
+------------------------------ 2 ------------------------------
+Artist: Eminem
+Song: The Real Slim Shady
+Album the song is from: Curtain Call
+Preview Url: null
+------------------------------ 3 ------------------------------
+Artist: Eminem
+Song: The Real Slim Shady
+Album the song is from: The Marshall Mathers LP
+Preview Url: null
+------------------------------ 4 ------------------------------
+Artist: Eminem
+Song: The Real Slim Shady
+Album the song is from: The Marshall Mathers LP
+------------------------------ 0 ------------------------------
+Artist: Eminem
+Song: The Real Slim Shady
+Album the song is from: Curtain Call
+------------------------------ 1 ------------------------------
+Artist: Eminem
+Song: The Real Slim Shady
+Album the song is from: Curtain Call: The Hits
+------------------------------ 2 ------------------------------
+Artist: Eminem
+Song: The Real Slim Shady
+Album the song is from: Curtain Call
+------------------------------ 3 ------------------------------
+Artist: Eminem
+Song: The Real Slim Shady
+Album the song is from: The Marshall Mathers LP
+------------------------------ 4 ------------------------------
+Artist: Camila Cabello
+Song: Havana
+Album the song is from: Camila
+Preview Url: https://p.scdn.co/mp3-preview/663b794c2fc8da8f9bbe33698cb1bac567126a23?cid=762684a5689c485b918ef53672f77165
+------------------------------ 0 ------------------------------
+Artist: Camila Cabello
+Song: Havana - Remix
+Album the song is from: Havana (Remix)
+Preview Url: https://p.scdn.co/mp3-preview/d74caa3e33e24d2ae69a817d9c952038385c1e46?cid=762684a5689c485b918ef53672f77165
+------------------------------ 1 ------------------------------
+Artist: Pentatonix
+Song: Havana
+Album the song is from: PTX Presents: Top Pop, Vol. I
+Preview Url: https://p.scdn.co/mp3-preview/c80726f8b40418feb5bca6aee452c04de23c1121?cid=762684a5689c485b918ef53672f77165
+------------------------------ 2 ------------------------------
+Artist: Kidz Bop Kids
+Song: Havana
+Album the song is from: KIDZ BOP 37
+Preview Url: null
+------------------------------ 3 ------------------------------
+Artist: Our Last Night
+Song: Havana
+Album the song is from: Havana
+Preview Url: https://p.scdn.co/mp3-preview/779a8b560c0bc19d4d4e9d6a38350289b757ed56?cid=762684a5689c485b918ef53672f77165
+------------------------------ 4 ------------------------------
+------------------------------ begin ------------------------------
+Title: The Last Samurai
+Year: 2003
+Imdb Rating: 7.7
+Country: USA, New Zealand, Japan
+Language: English, Japanese
+Plot: An American military advisor embraces the Samurai culture he was hired to destroy after he is captured in battle.
+Actors: Ken Watanabe, Tom Cruise, William Atherton, Chad Lindberg
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+------------------------------ fin ------------------------------
+Artist: Mark Ronson
+Song: Uptown Funk
+Album the song is from: Uptown Special
+Preview Url: https://p.scdn.co/mp3-preview/88a794d97fcb4475f72a27be7baf71b94d5a9dda?cid=762684a5689c485b918ef53672f77165
+------------------------------ 0 ------------------------------
+Artist: Mark Ronson
+Song: Uptown Funk
+Album the song is from: Uptown Funk (Remixes)
+Preview Url: https://p.scdn.co/mp3-preview/88a794d97fcb4475f72a27be7baf71b94d5a9dda?cid=762684a5689c485b918ef53672f77165
+------------------------------ 2 ------------------------------
+Artist: Kidz Bop Kids
+Song: Uptown Funk
+Album the song is from: KIDZ BOP Greatest Hits!
+Preview Url: null
+------------------------------ 4 ------------------------------
+Artist: Mark Ronson
+Song: Uptown Funk - Will Sparks Remix
+Album the song is from: Uptown Funk (Remixes)
+Preview Url: https://p.scdn.co/mp3-preview/cedb00d21cbd8ad842385fe6a079fc7d2b94a0c8?cid=762684a5689c485b918ef53672f77165
+------------------------------ 3 ------------------------------
+Artist: Kidz Bop Kids
+Song: Uptown Funk
+Album the song is from: Kidz Bop 28
+Preview Url: null
+------------------------------ 1 ------------------------------
+------------------------------ begin ------------------------------
+Title: The Grinch
+Year: 2018
+Imdb Rating: 6.3
+Country: China, USA
+Language: English
+Plot: A grumpy Grinch plots to ruin Christmas for the village of Whoville.
+Actors: Benedict Cumberbatch, Cameron Seely, Rashida Jones, Pharrell Williams
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+------------------------------ fin ------------------------------
+Artist: Digital Underground
+Song: The Humpty Dance
+Album the song is from: Sex Packets
+Preview Url: https://p.scdn.co/mp3-preview/9743032731989129b3457db2c2b5c694e841888a?cid=762684a5689c485b918ef53672f77165
+------------------------------ 0 ------------------------------
+Artist: Sachin-Jigar
+Song: D Se Dance
+Album the song is from: Humpty Sharma Ki Dulhania (Original Motion Picture Soundtrack)
+Preview Url: https://p.scdn.co/mp3-preview/36507d5c8cb08c23cbfe0857a50dcac1b27b3aa3?cid=762684a5689c485b918ef53672f77165
+------------------------------ 1 ------------------------------
+Artist: Digital Underground
+Song: The Humpty Dance
+Album the song is from: NOW That's What I Call A Workout Throwback Edition
+Preview Url: null
+------------------------------ 2 ------------------------------
+Artist: Digital Underground
+Song: The Humpty Dance
+Album the song is from: Rhino Hi-Five: Digital Underground
+Preview Url: https://p.scdn.co/mp3-preview/9743032731989129b3457db2c2b5c694e841888a?cid=762684a5689c485b918ef53672f77165
+------------------------------ 3 ------------------------------
+Artist: Digital Underground
+Song: The Humpty Dance
+Album the song is from: The Best Of Digital Underground: Playwutchyalike
+Preview Url: https://p.scdn.co/mp3-preview/9743032731989129b3457db2c2b5c694e841888a?cid=762684a5689c485b918ef53672f77165
+------------------------------ 4 ------------------------------
